@@ -1,2 +1,7 @@
 .env
 .env-none-dev
+.mypy_cache/
+.vscode/
+venv/
+__pycache__/
+.idea
